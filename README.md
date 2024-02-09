@@ -7,6 +7,7 @@ We have decided that our project implementation will be codded with Java on Andr
 •	 Github setup for project synchronization between members.
 •	 Login design and implementation connected to our project database.
 Firebase Authentication.
+
 WEEK 2:
 •	 Getting Vendors information from the database and display it in the Home interface.
 The first class to be invoked (MainActivity class) will acts as a loading screen performing different queries to the project database to get data about the Vendors
